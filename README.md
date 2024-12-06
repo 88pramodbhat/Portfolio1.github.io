@@ -9,9 +9,9 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - **Project 2**: A short description of another project.
 
 ## 🚀 Skills
-- C++, Python, JavaScript
+- c,c++,python
 - Data Structures and Algorithms
-- Web Development (React.js, Node.js)
+- Web Development 
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-username)
