@@ -1,11 +1,11 @@
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [Pramod bhat] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
+- **Project 1**: CITY DESIGN.
 - **Project 2**: A short description of another project.
 
 ## 🚀 Skills
